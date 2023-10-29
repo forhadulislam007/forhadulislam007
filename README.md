@@ -5,10 +5,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
-<a href="https://sites.google.com/">
-      <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-
 <a href="https://github.com/forhadulislam007">
       <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
     </a>
