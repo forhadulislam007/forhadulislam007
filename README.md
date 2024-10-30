@@ -24,11 +24,11 @@
 
 ### :fire: About Me ::
 I am a Full Stack QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I'm working as a Software QA Engineer and contributing to Software building & Testing & Quality Control.
+- :telescope: I'm working as a Senior SQ Engineer at Brac IT Services and contributing to Software building, Testing & Quality Control.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech books & post to my :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-name-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
+- :zap: In my free time, I read tech books & post to my :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-name-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitarek22)
 
 ---
 
